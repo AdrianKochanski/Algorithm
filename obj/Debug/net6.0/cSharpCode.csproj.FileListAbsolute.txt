@@ -1,0 +1,15 @@
+E:\Users\adria\cSharpCode\bin\Debug\net6.0\cSharpCode.exe
+E:\Users\adria\cSharpCode\bin\Debug\net6.0\cSharpCode.deps.json
+E:\Users\adria\cSharpCode\bin\Debug\net6.0\cSharpCode.runtimeconfig.json
+E:\Users\adria\cSharpCode\bin\Debug\net6.0\cSharpCode.dll
+E:\Users\adria\cSharpCode\bin\Debug\net6.0\cSharpCode.pdb
+E:\Users\adria\cSharpCode\obj\Debug\net6.0\cSharpCode.csproj.AssemblyReference.cache
+E:\Users\adria\cSharpCode\obj\Debug\net6.0\cSharpCode.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\adria\cSharpCode\obj\Debug\net6.0\cSharpCode.AssemblyInfoInputs.cache
+E:\Users\adria\cSharpCode\obj\Debug\net6.0\cSharpCode.AssemblyInfo.cs
+E:\Users\adria\cSharpCode\obj\Debug\net6.0\cSharpCode.csproj.CoreCompileInputs.cache
+E:\Users\adria\cSharpCode\obj\Debug\net6.0\cSharpCode.dll
+E:\Users\adria\cSharpCode\obj\Debug\net6.0\refint\cSharpCode.dll
+E:\Users\adria\cSharpCode\obj\Debug\net6.0\cSharpCode.pdb
+E:\Users\adria\cSharpCode\obj\Debug\net6.0\cSharpCode.genruntimeconfig.cache
+E:\Users\adria\cSharpCode\obj\Debug\net6.0\ref\cSharpCode.dll

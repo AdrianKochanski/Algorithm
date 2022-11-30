@@ -1,0 +1,15 @@
+E:\Users\adria\cSharpCode\Algorithm\bin\Debug\net6.0\Algorithm.exe
+E:\Users\adria\cSharpCode\Algorithm\bin\Debug\net6.0\Algorithm.deps.json
+E:\Users\adria\cSharpCode\Algorithm\bin\Debug\net6.0\Algorithm.runtimeconfig.json
+E:\Users\adria\cSharpCode\Algorithm\bin\Debug\net6.0\Algorithm.dll
+E:\Users\adria\cSharpCode\Algorithm\bin\Debug\net6.0\Algorithm.pdb
+E:\Users\adria\cSharpCode\Algorithm\obj\Debug\net6.0\Algorithm.csproj.AssemblyReference.cache
+E:\Users\adria\cSharpCode\Algorithm\obj\Debug\net6.0\Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\adria\cSharpCode\Algorithm\obj\Debug\net6.0\Algorithm.AssemblyInfoInputs.cache
+E:\Users\adria\cSharpCode\Algorithm\obj\Debug\net6.0\Algorithm.AssemblyInfo.cs
+E:\Users\adria\cSharpCode\Algorithm\obj\Debug\net6.0\Algorithm.csproj.CoreCompileInputs.cache
+E:\Users\adria\cSharpCode\Algorithm\obj\Debug\net6.0\Algorithm.dll
+E:\Users\adria\cSharpCode\Algorithm\obj\Debug\net6.0\refint\Algorithm.dll
+E:\Users\adria\cSharpCode\Algorithm\obj\Debug\net6.0\Algorithm.pdb
+E:\Users\adria\cSharpCode\Algorithm\obj\Debug\net6.0\Algorithm.genruntimeconfig.cache
+E:\Users\adria\cSharpCode\Algorithm\obj\Debug\net6.0\ref\Algorithm.dll
