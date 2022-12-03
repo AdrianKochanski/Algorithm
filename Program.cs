@@ -63,7 +63,10 @@ class Algorithm {
 
         foreach(int n_b in b) {
             if(!bCount.ContainsKey(n_b)) {
-                bCount.Add(n_b, b.Where(n => n == n_b).Count());
+                bCount.Add(n_b, 1);
+            }
+            else {
+                bCount[n_b]++;
             }
         }
 
